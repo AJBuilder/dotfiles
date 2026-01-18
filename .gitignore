@@ -1,0 +1,7 @@
+# Ignore all matugen generated color files
+.config/hypr/colors.conf
+.config/kitty/kitty-colors.conf
+.config/matugen/colors
+.config/ohmyposh/colors.json
+.config/waybar/colors.css
+.config/wlogout/colors.css
